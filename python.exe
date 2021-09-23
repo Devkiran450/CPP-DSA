@@ -1,0 +1,10 @@
+# 1 "C:\\Users\\Admin\\OneDrive\\Desktop\\Code\\python.py"
+# 1 "C:\\Users\\Admin\\OneDrive\\Desktop\\Code//"
+# 1 "<built-in>"
+# 1 "<command-line>"
+# 1 "C:\\Users\\Admin\\OneDrive\\Desktop\\Code\\python.py"
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import jupyter as jp
+np.array()
